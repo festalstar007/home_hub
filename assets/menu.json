@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "name": "技术",
+      "items": [
+        {
+          "name": "博客",
+          "url": "https://blog.345001.xyz/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "name": "休闲",
+      "items": [
+        {
+          "name": "游戏",
+          "url": "https://game.345001.xyz/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "name": "个人",
+      "items": [
+        {
+          "name": "训练记录",
+          "url": "https://sports.345001.xyz/",
+          "newTab": true,
+          "requiresAccess": true
+        },
+        {
+          "name": "订阅记录",
+          "url": "https://fs.345001.xyz/",
+          "requiresAccess": true
+        }
+      ]
+    }
+  ]
+}
